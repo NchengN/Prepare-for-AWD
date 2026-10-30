@@ -32,3 +32,4 @@
 https://www.baidu.com
 http://172.31.2.155:8000
 http://172.31.2.155:8000/probe.html
+http://172.31.2.155:8000/probe2.html
